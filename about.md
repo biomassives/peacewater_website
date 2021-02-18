@@ -1,11 +1,11 @@
 ---
-title: About
+title: About SCD Hub
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: Join us in tackling the toughest problems of our generation
+sub_heading: One meeting at a time
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
+textline: Instead of feeling the road is difficult, it is better to set off immediately.
   research.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
@@ -18,6 +18,6 @@ menu:
     weight: 3
 ---
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+SCD Hub works to provide direct relief to communities through project research and planning, centered aroundcritical water resource issues.  We follow the lifecycle of water and support awareness of appropriate techical solutions and organizing principals with our desired outcomes being the improvement Wastewater, Drinking Water, and Solid Waste management issues.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Infrastructure improvements happen incrimentally, so planning short term, medium term, and long term outcomes give us a chance to plan effective work that keeps these three objectives in mind.
