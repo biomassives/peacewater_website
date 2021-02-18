@@ -10,5 +10,5 @@ menu:
     weight: 2
   navigation:
     identifier: _projects
-    weight: 3
+    weight: 2
 ---
