@@ -1,5 +1,5 @@
 ---
-title: About SCD Hub
+title: Meetings
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2021/02/18/scdhub1.jpg"
 heading: Join us in tackling the toughest problems of our generation
