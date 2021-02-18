@@ -12,3 +12,17 @@ layout: person
 
 ---
 Greg tesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+
+Language is a big interest for Greg, (Ǥœg), Waidaka, Maina
+
+Spanish ( n.amer., dialacts )
+
+Swahili ( luo, kamba, kirwandan, sheng),  masaii, Isixhosa
+
+Navajo, Ojibwe, Lakota
+
+Amharic
+
+Computer Languages
+
+Devops
