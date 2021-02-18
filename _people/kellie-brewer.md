@@ -29,6 +29,8 @@ Tree and Flower Nurseries
 
 Kitchen medicinals garden
 
-Music  Mc teach
+Music:  Mc Teach, Mamawatoto,  with youth training  
+
+Educational areas: Acting theater improv design, Herbal plant medicine care, solar power simple water systems, plant herbal/floral archealology, scd hub workshops,  anursery making prototype from plastics planting bags and pots reuse, soil composting & amending, songs and prayers, Rastronics, OltEacha 
 
 Soundcloud ( donation button )
