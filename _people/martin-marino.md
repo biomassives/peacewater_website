@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: Board Member
-thumbnail: "/uploads/2021/02/18/magnus.jpg"
+thumbnail: "/uploads/2021/02/18/magnus-1.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: person
