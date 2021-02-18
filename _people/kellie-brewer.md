@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 sub_heading: Board Member / Project Partner
-thumbnail: "/uploads/2021/02/18/ria_and_claudia.png"
+thumbnail: "/uploads/2021/02/18/claudia-and-ria.png"
 email: ''
 linkedin: ''
 layout: person
@@ -13,8 +13,20 @@ layout: person
 ---
 Claudia Mbinda Mwende is a powerful force for change in East Africa
 
-In her hometown region of Machakos, Kenya,  Miss 
+In her hometown region of Machakos, Kenya,
 
-Ongoing Collaborations with SCD Hub have been 
+Production of Bags
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Ongoing Collaborations with SCD Hub have been
+
+ILO Training Program Grant Reciolient
+
+Dandora Training
+
+Tree and Flower Nurseries
+
+Kitchen medicinals garden
+
+Music  Mc teach
+
+Soundcloud ( donation button )
