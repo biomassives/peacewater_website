@@ -17,7 +17,7 @@ services:
     Management sector.
   heading: Solid Waste
   icon: "/uploads/2021/02/18/trash_full.png"
-sub_heading: An experts exchange database
+sub_heading: Connecting experts and stakeholders
 textline: | 
   Extension for Community Water Outcomes
 hero_button:
