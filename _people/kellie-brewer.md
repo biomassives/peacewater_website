@@ -1,16 +1,16 @@
 ---
-title: Kellie Brewer
-date: 2017-11-14 10:59:07 +0000
+title: Claudia Mbinda Mwende
+date: '2017-11-14T10:59:07.000+00:00'
 role:
 - advisor
 - staff
-sub_heading: Professor
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+sub_heading: Board Member / Project Partner
+thumbnail: ''
 email: ''
 linkedin: ''
-layout: 'person'
----
+layout: person
 
+---
 Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
 
 Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
