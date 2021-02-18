@@ -9,6 +9,10 @@ hero_button:
   href: https://forms.gle/czcst1KDZXnsMk2B9
 textline: ''
 services:
+- heading: Project lead
+  description: discusses issues with community, relates concepts from meetings to
+    local group/ groups, assesses path forward for short, medium, and long term goals.
+  icon: ''
 - heading: meeting coordinator
   description: Key components of a good meeting - informed experts able to discuss
     general
