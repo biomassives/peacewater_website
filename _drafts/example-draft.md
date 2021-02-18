@@ -1,16 +1,18 @@
 ---
-title: Example Draft
+title: Example Project Status Report
 layout: post
-date: 2018-01-19 00:00:00 +0000
+date: 2018-01-19T00:00:00.000+00:00
 sub_heading: ''
 tags: []
 related_posts: []
 
 ---
-## What are draft posts?
+## Project Status.
 
-This is an example of a draft post. Draft posts aren't included when publishing your site.
+Regular project reporting allows for participation
 
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+Connection is at the core of this work.  Long term relationships between project partners, Peacewater researchers, volunteers, meeting expert testimony providers, meeting organizers, bloggers and writers, musicians and creatives, contractors, maintenance people.  This system had been designed to help people develop more meaningful long term connections.  Please let us know if you see anything that could help us improve. 
 
 ![](/uploads/2018/02/17/building.jpg)
+
+"Our most important technology is the network of people" - Ganji Emannel - SCD Hub board member, Kenya
