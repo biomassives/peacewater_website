@@ -39,6 +39,4 @@ Soundcloud ( donation button )
 
 Machaokos county burn abatement is about system provisioning./
 
-and the will of the people.
-
-Konza schools
+and the will of the people. Reporting systems testing
