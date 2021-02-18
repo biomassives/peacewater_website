@@ -8,7 +8,11 @@ hero_button:
   text: ''
   href: ''
 textline: ''
-services: []
+services:
+- heading: Project Liason
+  icon: ''
+  description: key contact who assists project group liason with formation of goals
+    and clarification of objectives
 show_news: false
 partners:
 - "/uploads/2021/02/18/logo.svg"
