@@ -15,7 +15,7 @@ Claudia Mbinda Mwende is a powerful force for change in East Africa
 
 In her hometown region of Machakos, Kenya,
 
-Production of Bags 
+Production of Bags
 
 development of waste stream derived resource economy skills training groups
 
@@ -29,8 +29,16 @@ Tree and Flower Nurseries
 
 Kitchen medicinals garden
 
-Music:  Mc Teach, Mamawatoto,  with youth training  
+Music:  Mc Teach, Mamawatoto,  with youth training
 
-Educational areas: Acting theater improv design, Herbal plant medicine care, solar power simple water systems, plant herbal/floral archealology, scd hub workshops,  anursery making prototype from plastics planting bags and pots reuse, soil composting & amending, songs and prayers, Rastronics, OltEacha 
+Educational areas: Acting theater improv design, Herbal plant medicine care, solar power simple water systems, plant herbal/floral archealology, scd hub workshops,  anursery making prototype from plastics planting bags and pots reuse, soil composting & amending, songs and prayers, Rastronics, OltEacha
 
 Soundcloud ( donation button )
+
+![](/uploads/2021/02/18/screenshot_2021-02-18-openstreetmap.png)
+
+Machaokos county burn abatement is about system provisioning./
+
+and the will of the people.
+
+Konza schools
