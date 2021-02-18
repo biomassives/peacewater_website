@@ -15,6 +15,10 @@ layout: post
 banner_image: "/uploads/2021/02/18/lifecycle.pdf"
 
 ---
-dmentat ipage
+public page for documentation
 
 [https://peacewater-documentation.vercel.app/](https://peacewater-documentation.vercel.app/ "https://peacewater-documentation.vercel.app/")
+
+build source for documentation
+
+[https://github.com/peacewater/peacewater-documentation](https://github.com/peacewater/peacewater-documentation "https://github.com/peacewater/peacewater-documentation")
