@@ -15,9 +15,11 @@ Claudia Mbinda Mwende is a powerful force for change in East Africa
 
 In her hometown region of Machakos, Kenya,
 
-Production of Bags
+Production of Bags 
 
-Ongoing Collaborations with SCD Hub have been
+development of waste stream derived resource economy skills training groups
+
+Ongoing Collaborations with SCD Hub have been pleasant
 
 ILO Training Program Grant Reciolient
 
