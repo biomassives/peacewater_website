@@ -1,16 +1,19 @@
 ---
-title: Portable EEG Montoring Device
-date: 2016-04-20 00:00:00 +0000
+title: Water Access Improvement Projects
+date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
 banner_image: "/uploads/2018/02/17/neurons.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: Partner projects are the lifeblood of this work
 tags:
 - engineering
 - research
+- water access
+- water improvement
+- water projects
 slug: ''
----
 
+---
 ## Overview
 
 Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
