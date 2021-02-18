@@ -4,7 +4,7 @@ banner_image: "/uploads/2021/02/18/scdhub1.jpg"
 layout: landing-page
 heading: Peacewater Project
 partners:
-- "/uploads/2017/11/13/stem.png"
+- "/uploads/2021/02/18/140073105_102291501861994_7622484217930198046_n.jpg"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
