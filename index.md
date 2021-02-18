@@ -2,23 +2,23 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Peacewater Project
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+    the WATSAN Sector.
+  heading: WAter & Sanitation
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Performing collaborative research and providing services to Solid Waste 
+    Management sector.
+  heading: Solid Wate
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Extension for Community Water Outcomes
 textline: | 
-  Belkirk College of Engineering
+  Extension for Community Water Outcomes
   
   Ora et Labora
 hero_button:
