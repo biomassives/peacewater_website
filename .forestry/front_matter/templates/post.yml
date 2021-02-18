@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/markdown-notation.md
 - _posts/php-laravel.md
