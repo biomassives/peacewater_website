@@ -36,4 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/lindsey-livdeep-swords.md
 - _people/nudugs-uswakamili.md
