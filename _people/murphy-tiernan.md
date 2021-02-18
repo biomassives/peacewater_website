@@ -1,16 +1,16 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Caudia Mbinda Mwende
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
+thumbnail: "/uploads/2021/02/18/img-5228.mov"
+sub_heading: Group Leader / Trainer
 email: murphy@belkirkcollege.com
 linkedin: ''
-layout: 'person'
----
+layout: person
 
+---
 Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
 
 He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
