@@ -16,6 +16,10 @@ banner_image: ''
 related_posts: []
 
 ---
+> Laravel Cloud instance
+>
+>   via Digital Ocean:  
+>
 > Laravel local install low - Feb 18 2021 - Greg
 >
 >       75/75 [============================] 100%
@@ -54,7 +58,7 @@ related_posts: []
 >       - Installing monolog/monolog (2.2.0): Extracting archive
 >     
 >       - Installing voku/portable-ascii (1.5.6): Extracting archive
->     
+>     75/75 [============================] 100%      - Installing doctrine/inflector (2.0.3): Extracting archive
 >       - Installing phpoption/phpoption (1.7.5): Extracting archive
 >     
 >       - Installing graham-campbell/result-type (v1.0.1): Extracting archive
