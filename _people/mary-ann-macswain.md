@@ -1,20 +1,20 @@
 ---
-title: Mary-Ann MacSwain
-date: 2016-11-08 00:00:00 +0000
+title: Lisa Adeva Samoy
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: maryanne@belkirkcollege.ca
-linkedin: ''
+email: " lisamoyadeva@gmail.com"
+linkedin: https://www.linkedin.com/in/lisa-samoy-248a2514/
 role:
 - staff
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: SCD Hub Board Member
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
-thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
----
+thumbnail: "/uploads/2021/02/18/lisa_adeva.JPG"
+layout: person
 
+---
 Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
 
 Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
