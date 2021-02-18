@@ -6,7 +6,7 @@ role:
 - board
 thumbnail: "/uploads/2021/02/18/screenshot_2021-02-17-facebook.png"
 sub_heading: Mentor, Trainer, Co-Founder, Board Liason
-email: grady@belkirkcollege.com
+email: greg@ecocity.com
 linkedin: ''
 layout: person
 
