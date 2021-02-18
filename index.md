@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2021/02/18/scdhub1.jpg"
 layout: landing-page
-heading: Peacewater Project
+heading: Peacewater
 partners:
 - "/uploads/2021/02/18/140073105_102291501861994_7622484217930198046_n.jpg"
 - "/uploads/2021/02/18/external-content-duckduckgo-com.png"
@@ -17,11 +17,9 @@ services:
     Management sector.
   heading: Solid Waste
   icon: "/uploads/2021/02/18/trash_full.png"
-sub_heading: Extension for Community Water Outcomes
+sub_heading: An experts exchange database
 textline: | 
   Extension for Community Water Outcomes
-  
-  Ora et Labora
 hero_button:
   text: Learn more
   href: "/about"
