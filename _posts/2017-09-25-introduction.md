@@ -1,15 +1,19 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
+title: ECHO Water / Peacewater Documentation Site
+date: 2021-02-17 10:09:13 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
+sub_heading: An introduction to our project
 tags:
-- Demo
 - Forestry
+- Introduction
+- Outline
+- Technology choices
+- Methology
 layout: post
-banner_image: ''
+banner_image: "/uploads/2021/02/18/lifecycle.pdf"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
