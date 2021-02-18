@@ -1,12 +1,12 @@
 ---
-title: Caudia Mbinda Mwende
+title: Kiama Muu
 date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2021/02/18/img-5228.mov"
+thumbnail: "/uploads/2021/02/18/kiama.jpg"
 sub_heading: Group Leader / Trainer
-email: murphy@belkirkcollege.com
+email: 'alexkiama95@gmail.com '
 linkedin: ''
 layout: person
 
