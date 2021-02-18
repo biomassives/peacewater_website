@@ -5,8 +5,8 @@ layout: landing-page
 heading: Peacewater Project
 partners:
 - "/uploads/2021/02/18/140073105_102291501861994_7622484217930198046_n.jpg"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2021/02/18/external-content-duckduckgo-com.png"
+- "/uploads/2021/02/18/external-content-duckduckgo-com.png"
 services:
 - description: Performing collaborative research and providing services to support
     the WATSAN Sector.
