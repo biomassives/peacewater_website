@@ -10,12 +10,12 @@ partners:
 services:
 - description: Performing collaborative research and providing services to support
     the WATSAN Sector.
-  heading: WAter & Sanitation
-  icon: "/uploads/2017/11/13/health.png"
+  heading: Water & Sanitation
+  icon: "/uploads/2021/02/18/nounproject-com_louis-prado_outfall_25099.png"
 - description: Performing collaborative research and providing services to Solid Waste 
     Management sector.
-  heading: Solid Wate
-  icon: "/uploads/2017/11/13/biotech.png"
+  heading: Solid Waste
+  icon: "/uploads/2021/02/18/nounproject-com_louis-prado_outfall_25099.png"
 sub_heading: Extension for Community Water Outcomes
 textline: | 
   Extension for Community Water Outcomes
