@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2021/02/18/scdhub1.jpg"
 layout: landing-page
 heading: Peacewater Project
 partners:
