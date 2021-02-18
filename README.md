@@ -1,6 +1,9 @@
-# Forestry Jekyll demo
+# EXTENSION FOR COMMUNITY WATER OUTCOMES
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
+
+A Jekyll system based site managed via [Forestry CMS](https://forestry.io).
+
+# How to set up your own:
 
 ## Import to Forestry
 
@@ -17,6 +20,7 @@ Forestry empowers editors with a usable interface to edit Markdown, YAML and JSO
 
 ## Documentation
 
+- [Live page}(https://github.com/biomassives/ecwo)
 - [Forestry docs](https://forestry.io/docs/welcome/)
 - [Jekyll Developer Guide](https://forestry.io/docs/guides/developing-with-jekyll/)
 - [Jekyll docs](https://jekyllrb.com)
@@ -25,7 +29,7 @@ Forestry empowers editors with a usable interface to edit Markdown, YAML and JSO
 
 The easiest way to deploy this Jekyll v4 demo is to build and deploy through https://netlify.com, just click the button below and follow the instructions.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/biomassives/ecwo)
 
 ## Running locally
 
