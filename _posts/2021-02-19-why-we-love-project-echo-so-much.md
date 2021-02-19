@@ -11,3 +11,7 @@ related_posts: []
 exhibit 1-
 
 TED talks- founder of ECHO, frustrated liver cancer doctor working to provide better care in sibursed rural placed throughout New Mexico, founds the ECHO Hub program to provide a strategic training network system empowering local doctors to tackle outbreaks of Hepatitis C in 2010.
+
+exhibit 2-
+
+ECHO model's successes in india:
