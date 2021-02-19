@@ -12,10 +12,16 @@ services:
     the WATSAN Sector.
   heading: Water & Sanitation
   icon: "/uploads/2021/02/18/nounproject-com_louis-prado_outfall_25099.png"
-  icon2: "/uploads/2021/02/18/water_drink.png"
 - description: Performing collaborative research and providing services to Solid Waste 
     Management sector.
   heading: Solid Waste
+  icon: "/uploads/2021/02/18/trash_full.png"
+- description: Safe drinking water is a human right
+  heading: Drinking water
+  icon: "/uploads/2021/02/18/water_drink.png"
+- description: Water system experts and locals roundtable.
+  button: request a meeting.
+  heading: Functional plan for short medium and long term  
   icon: "/uploads/2021/02/18/trash_full.png"
 sub_heading: Connecting experts and stakeholders
 textline: | 
