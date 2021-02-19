@@ -21,7 +21,19 @@ collections:
     output: true
   projects:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/project/:path/"
+  topics:
+    output: true
+    permalink: "/topic/:path/"    
+  contexts:
+    output: true
+    permalink: "/context/:path/"    
+  reports:
+    output: true
+    permalink: "/report/:path/"    
+
+
+
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
