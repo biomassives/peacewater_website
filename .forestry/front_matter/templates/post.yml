@@ -39,5 +39,6 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/management-of-web-and-social-media-presence.md
 - _posts/markdown-notation.md
 - _posts/php-laravel.md
