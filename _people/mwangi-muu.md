@@ -2,9 +2,9 @@
 role:
 - staff
 layout: person
-title: Mwangi Muu
-sub_heading: Paid operations intern
-thumbnail: "/uploads/2021/02/19/screenshot_2021-02-18-1-facebook.png"
+title: Elijha Bent
+sub_heading: Board Member, Community Project Liason
+thumbnail: "/uploads/2021/02/19/mwas_cu.jpg"
 email: ''
 linkedin: ''
 
