@@ -12,7 +12,6 @@ tags:
 - water improvement
 - water projects
 slug: ''
-published: false
 
 ---
 ## Creative Tension
