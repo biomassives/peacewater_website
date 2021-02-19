@@ -1,9 +1,11 @@
 ---
-title: Example Project Status Report
+title: Filing a Project Status Report
 layout: post
 date: 2018-01-19T00:00:00.000+00:00
-sub_heading: ''
-tags: []
+sub_heading: 'a way to plan short term, medium term, long term '
+tags:
+- planning
+- project report
 related_posts: []
 
 ---
