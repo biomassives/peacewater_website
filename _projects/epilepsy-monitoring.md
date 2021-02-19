@@ -12,19 +12,24 @@ tags:
 - water improvement
 - water projects
 slug: ''
+published: false
 
 ---
-## Project driver
+## Creative Tension
 
-Water improvement projects are fueled by a 'creative tension' which represents the difference between how things are now, and how they could be if a good design and implementation are delivered.  
+Water improvement projects are fueled by a 'creative tension' which represents the difference between how things are now, and how they could be if a good design and implementation are delivered. 
+
+This concept is elucidated well in 
+
+ 
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/RC8DxfBH3I0](https://www.youtube.com/embed/RC8DxfBH3I0 "https://www.youtube.com/embed/RC8DxfBH3I0")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Jah is my driver ]()- burning spear
+
 ## Design
 
-The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
-
-The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
+sing a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
 
 ## Practical Applications
 
