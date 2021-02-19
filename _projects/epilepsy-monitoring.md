@@ -14,29 +14,33 @@ tags:
 slug: ''
 
 ---
-## Overview
+## Project driver
 
-Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
+Water improvement projects are fueled by a 'creative tension' which represents the difference between how things are now, and how they could be if a good design and implementation are delivered.  
 
-Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/RC8DxfBH3I0](https://www.youtube.com/embed/RC8DxfBH3I0 "https://www.youtube.com/embed/RC8DxfBH3I0")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Design
+
 The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
 
 The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
 
 ## Practical Applications
-- Ambulatory Care
-- Automated response for solitary patients
-- Long-term data collection and analysis
+
+* Ambulatory Care
+* Automated response for solitary patients
+* Long-term data collection and analysis
 
 ## Team
 
 ### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
+
+* [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
+* [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
 
 ### Students
-- Andrew Convington
-- Mark Bradbury
-- Ashley O'Brien
+
+* Andrew Convington
+* Mark Bradbury
+* Ashley O'Brien
