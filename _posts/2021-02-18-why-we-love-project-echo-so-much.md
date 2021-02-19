@@ -27,4 +27,6 @@ Her daughter, Ria's Project working with peacwater
 
 on plastics burn abatement and solid waste solution
 
-three phase short medium and long term planning model for konza, machakos, and nairobi-mombasa tech corridor region an ecological imperative for the heritage of the african continent. ( which goes back 2, 3, 4 +  million years. for our species common origin. ).
+three phase short medium and long term planning model for Konza, Machakos, and nNairobi-mombasa tech corridor region an ecological imperative for the heritage of the African continent. ( which goes back 2, 3, 4 +  million years. for our species common origin. ).
+
+[Download File]( "Download File")
