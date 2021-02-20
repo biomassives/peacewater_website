@@ -1,8 +1,8 @@
 ---
-title: Filing a Project Status Report
+title: Status reports
 layout: post
 date: 2018-01-19T00:00:00.000+00:00
-sub_heading: 'a way to plan short term, medium term, long term '
+sub_heading: short term, medium term, long term plan
 tags:
 - planning
 - project report
