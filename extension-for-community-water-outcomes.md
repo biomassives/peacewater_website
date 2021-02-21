@@ -20,15 +20,43 @@ partners: []
 show_staff: false
 
 ---
-Inputs to the database
+**Inputs to the database**
 
-Strapi  
+> Strapi
+>
+> Google Forms
+>
+> Social hashtag format
+>
+> Curation portal:  - () () () ()
+>
+> hotosm.org map data 
+>
+> Nodegoat.net analysist reports
 
-Google Forms
+**Output from database**
 
-Social hashtags 
+  current
 
- Curation portal:  - (  ) () () ()
+* display output page:   https://ecwo.work
+* database endpoints managed via strapi.io 'Headless CMS' 
+
+*     >>  system architecture.   
+
+'Source of truth' instance is online via digital ocean via
+
+* 
+* google form questionaire designed for new project information
+
+  Strapi engine,
+
+  
+
+ **R & D**
+
+* Reminder and timeline based services.
+* Planned outreach to the public via mailchimp.
+* Short, medium and long term output model.
 
 We make use of [Firebase ](https://firebase.google.com/ "Firebase") for a simple message link relay / private team chat,
 
