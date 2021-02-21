@@ -1,23 +1,23 @@
 ---
-title: Meetings
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2021/02/18/scdhub1.jpg"
-heading: Join us in tackling the toughest problems of our generation
-sub_heading: One meeting at a time
+title: About
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2018/02/17/college-building.jpg"
+heading: SCD Clinics
+sub_heading: Ora et Labora
 layout: landing-page
-textline: Instead of feeling the road is difficult, it is better to set off immediately.
+textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
 
-SCD Hub works to provide direct relief to communities through project research and planning, centered aroundcritical water resource issues.  We follow the lifecycle of water and support awareness of appropriate techical solutions and organizing principals with our desired outcomes being the improvement Wastewater, Drinking Water, and Solid Waste management issues.
-
-Infrastructure improvements happen incrimentally, so planning short term, medium term, and long term outcomes give us a chance to plan effective work that keeps these three objectives in mind.
+Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
