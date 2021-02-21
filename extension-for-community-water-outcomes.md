@@ -2,7 +2,7 @@
 heading: Peacewater
 sub_heading: Engineering and Water Sciences
 layout: home
-title: Extension for Community Water Outcomes
+title: Peacewater Database
 banner_image: ''
 hero_button:
   text: ''
@@ -18,11 +18,21 @@ services:
 show_news: false
 partners: []
 show_staff: false
-published: false
 
 ---
-and Health Sciences
+
+Inputs to the database
+
+We make use of [Firebase ](https://firebase.google.com/ "Firebase") for a simple message link relay / private team chat,
 
 [https://peacewater-assessment.vercel.app/](https://peacewater-assessment.vercel.app/ "Reference item add, tag")
 
-Reference item add, tag data structures managed in Strali api
+Reference item add, tag data structures managed in Strapi
+
+Google forms provides the primary face for 'public consumption' for
+
+* starting a Peacewater report for your project
+* providing supportive research support
+* 
+
+**note**- google forms have proven to be very accessible in the learning environment and have allowed us to make improvements and changes in an inprescedented breakout worshop manner. 
