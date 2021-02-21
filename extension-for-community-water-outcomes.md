@@ -20,8 +20,15 @@ partners: []
 show_staff: false
 
 ---
-
 Inputs to the database
+
+Strapi  
+
+Google Forms
+
+Social hashtags 
+
+ Curation portal:  - (  ) () () ()
 
 We make use of [Firebase ](https://firebase.google.com/ "Firebase") for a simple message link relay / private team chat,
 
@@ -35,4 +42,4 @@ Google forms provides the primary face for 'public consumption' for
 * providing supportive research support
 * 
 
-**note**- google forms have proven to be very accessible in the learning environment and have allowed us to make improvements and changes in an inprescedented breakout worshop manner. 
+**note**- google forms have proven to be very accessible in the learning environment and have allowed us to make improvements and changes in an unprecedented breakout workshop manner.
