@@ -1,4 +1,4 @@
-# EXTENSION FOR COMMUNITY WATER OUTCOMES
+# PEACEWATER
 
 
 A Jekyll system based site managed via [Forestry CMS](https://forestry.io).
