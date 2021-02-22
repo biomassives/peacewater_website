@@ -35,6 +35,12 @@ Google sheets, Strapi API, static sites via git, Vercel, Netlify
   * Digital Oceean
   * Heroku
 
+Strapi
+
+ Strapi provides a flexible interface to various database backends. (Mysql, Mongodb, Sqlite, PostgreSQl), via [graphql ](https://strapi.io/documentation/developer-docs/latest/plugins/graphql.html "graphql endpoints")endpoints
+
+You can view the 
+
 This website is managed via [Forestry CMS](https://forestry.io), which updates markdown files in [Github](https://github.com/biomassives/ecwo "biomassives github account - 'personal account'"), triggering a build at [Netlify.com](https://netlify.com "Netlify")
 
 Forestry.io provides a solid interface to manage public content.
