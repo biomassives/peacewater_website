@@ -18,4 +18,4 @@ menu:
     weight: 2
 
 ---
-Water systems
+To get started,  water systems focused clinics are encouraged to fill out our [Peacewater Project Form](https://forms.gle/rbGk6mrqokPgDYqz6 "Peacewater Project Form").
