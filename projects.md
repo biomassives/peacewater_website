@@ -13,10 +13,9 @@ menu:
     weight: 2
 
 ---
+Peacewater uses Docker and cloud containers allows for portability of our systems.  Strapi docker install setup is simple.
 
-Our use of Docker and cloud containers allows for portability of our systems.  Strapi docker install setup is simple.
-
-[https://www.youtube.com/watch?v=kazEAzGWuIc](https://www.youtube.com/watch?v=kazEAzGWuIc "https://www.youtube.com/watch?v=kazEAzGWuIc")
+rR
 
 Dockerhub: >> [strapi/strapi](https://hub.docker.com/r/strapi/strapi "Docker")
 
@@ -25,5 +24,11 @@ Github: >> [github.com/strapi/strapi-docke](https://github.com/strapi/strapi-doc
 [install Docker](https://docs.docker.com/engine/install/ "install Docker engine")
 
 to start a Strapi server, run this command:
+
+Curation portal app
+
+* primary data source -
+
+Youtube suggestions are good and trained develop over time. This has proven helpful in curtating new content. 
 
     docker run -it -p 1337:1337 -v `pwd`/project-name:/srv/app strapi/strapi
