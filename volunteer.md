@@ -31,7 +31,7 @@ partners:
 show_staff: false
 
 ---
-**Choosing a project to assist**
+**CHOOSING AN AREA OF FOCUS**
 
 Our database grows with each project partner we assist.
 
@@ -45,7 +45,7 @@ Research liaisons help determine which topics in need of more research, and help
 
 Here are some suggested starting points:
 
-water : [1](https://en.wikipedia.org/wiki/Rainwater_harvesting "Rainwater harvesting") [2]() [3](https://www.unep.org/interactive/beat-plastic-pollution/ "UN Environment beat-plastic-pollution") 
+water : [1](https://en.wikipedia.org/wiki/Rainwater_harvesting "Rainwater harvesting") [2]() [3](https://www.unep.org/interactive/beat-plastic-pollution/ "UN Environment beat-plastic-pollution")
 
 desired outcome check boxes on our [Project signup form](https://forms.gle/QidAdD9nLVYWGgtv5 "Peacewater project form")
 
