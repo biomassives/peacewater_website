@@ -7,7 +7,8 @@ banner_image: "/uploads/2021/02/18/screenshot_2021-02-18-openstreetmap.png"
 hero_button:
   text: 'Project form '
   href: https://forms.gle/czcst1KDZXnsMk2B9
-textline: ''
+textline: Volunteering provides good resume fodder, a sense of purpose, training/
+  mentoriships, and good lifelong learning opportunties.
 services:
 - heading: Project lead
   description: discusses issues with community, relates concepts from meetings to
