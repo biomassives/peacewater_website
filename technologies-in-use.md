@@ -35,11 +35,11 @@ Google sheets, Strapi API, static sites via git, Vercel, Netlify
   * Digital Oceean
   * Heroku
 
-This Jekyll demo site is managed via [Forestry CMS](https://forestry.io), which updates markdown files in [Github](https://github.com/biomassives/ecwo "biomassives github account - 'personal account'"), which notifies the host 
+This website is managed via [Forestry CMS](https://forestry.io), which updates markdown files in [Github](https://github.com/biomassives/ecwo "biomassives github account - 'personal account'"), triggering a build at [Netlify.com](https://netlify.com "Netlify")
 
 Forestry.io provides a solid interface to manage public content.
 
-[scdhub.org](https://scdhub.org "SCd Hub") solutions library content is managed via metadata,  The transition to forestry.io free and now low level service has gone well.  SCD Hub is currently maintained via markdown files at https://scdhub.org 
+[scdhub.org](https://scdhub.org "SCD Hub") [solutions library](https://scdhub.org "Solutions Library") content is managed via metadata,  The transition to forestry.io free and now low level service has gone well.  SCD Hub is currently maintained via markdown files at https://scdhub.org 
 
 The template we use for this website has been pre-configured to work with Forestry, 
 
