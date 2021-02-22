@@ -53,7 +53,7 @@ desired outcome check boxes on our [Project signup form](https://forms.gle/QidAd
 * Reduction of pollutants to air and water supply
 * Abatement of open trash burning
 * Increased recycling in my community
-* Jobs created in the recycling / upcycled product industry
+* Jobs created in the recycling / up-cycled product industry
 * Development of Eco-tourism industry
 * Increased community awareness
 * Access to grants and funding for appropriate solutions
