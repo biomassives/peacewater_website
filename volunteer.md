@@ -2,7 +2,7 @@
 heading: Assist a project partner
 sub_heading: Research a water topic
 layout: home
-title: Volunteer
+title: How to volunteer
 banner_image: "/uploads/2021/02/18/screenshot_2021-02-18-openstreetmap.png"
 hero_button:
   text: 'Project form '
@@ -30,10 +30,38 @@ partners:
 show_staff: false
 
 ---
+**Choosing a project to assist**
+
 Our database grows with each project partner we assist.
 
 Each project is assisted by a research liaison who role coordinates with the project's local contact person and research volunteers.
 
-Research liasons help determine which topics in need of more research, and help qualify information sources.
+Research liaisons help determine which topics in need of more research, and help qualify information sources.
 
-![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)![](/uploads/2021/02/18/mermaid-diagram-20210218103418.png)
+![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)
+
+Here are some suggested starting points:
+
+water : [1](https://en.wikipedia.org/wiki/Rainwater_harvesting "Rainwater harvesting") [2]() [3](https://www.unep.org/interactive/beat-plastic-pollution/ "UN Environment beat-plastic-pollution") 
+
+      Access to cleaner water for my family/ community
+
+      On-site water / and air filtration systems
+
+Reduction of pollutants to air and water supply
+
+Abatement of open trash burning
+
+Increased recycling in my community
+
+Jobs created in the recycling / upcycled product industry
+
+Development of Eco-tourism industry
+
+Increased community awareness
+
+Access to grants and funding for appropriate solutions
+
+Research community approaches to solid waste management.
+
+some links to get you started:
