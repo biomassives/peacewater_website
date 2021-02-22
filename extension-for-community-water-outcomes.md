@@ -20,6 +20,10 @@ partners: []
 show_staff: false
 
 ---
+The Peacewater process has been to iteratively create a schema that works well for our partners and will link together internally well to be improved through analysis. ([nodegoat](https://nodegoat.net/ "Nodegoat")) ([bigML](https://bigml.com/features "Big ML for Google Sheets"))
+
+ container while working with existing community short 
+
 **Inputs to the database**
 
 > Strapi
@@ -30,18 +34,17 @@ show_staff: false
 >
 > Curation portal:  - () () () ()
 >
-> hotosm.org map data 
+> hotosm.org map data
 >
 > Nodegoat.net analysist reports
 
 **Output from database**
 
-  current
+current
 
+* new background research info is posted to 
 * display output page:   https://ecwo.work
-* database endpoints managed via strapi.io 'Headless CMS' 
-
-*     >>  system architecture.   
+* database endpoints managed via strapi.io 'Headless CMS'
 
 'Source of truth' instance is online via digital ocean via
 
@@ -50,9 +53,7 @@ show_staff: false
 
   Strapi engine,
 
-  
-
- **R & D**
+**R & D**
 
 * Reminder and timeline based services.
 * Planned outreach to the public via mailchimp.
