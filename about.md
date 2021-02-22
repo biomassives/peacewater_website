@@ -1,7 +1,7 @@
 ---
 title: Meetups
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2021/02/18/water_drink.png"
 heading: SCD Clinics
 sub_heading: Disseminating knowledge for public health
 layout: landing-page
