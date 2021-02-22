@@ -80,6 +80,7 @@ fields:
   default: home
 pages:
 - adding-information-to-the-database.md
+- data-model-background-research.md
 - database-infrastructure.md
 - extension-for-community-water-outcomes.md
 - index.md
