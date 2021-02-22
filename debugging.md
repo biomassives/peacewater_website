@@ -1,5 +1,5 @@
 ---
-heading: Belkirk College
+heading: ''
 sub_heading: Engineering and Health Sciences
 layout: home
 title: Debugging
