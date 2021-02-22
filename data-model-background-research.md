@@ -14,9 +14,12 @@ partners: []
 show_staff: false
 
 ---
-Background research for projects
 
-Background research for projects
+The text below is from the live form "Background research for projects" at  [https://forms.gle/ppSUnrauZJUjkRn27](https://forms.gle/ppSUnrauZJUjkRn27 "Background research for projects")  
+
+The design of these fields and two like them (below) guide the design 
+
+**Background research for projects**
 
 The name and photo associated with your Google account will be recorded when you upload files and submit this form.
 
@@ -42,19 +45,19 @@ Solid waste
 
 Other:
 
-  What outcomes were desired / were achieved
+What outcomes were desired / were achieved
 
-  What project phases did things follow?
+What project phases did things follow?
 
-  What lessons learned from outcomes
+What lessons learned from outcomes
 
-  Advice for future projects
+Advice for future projects
 
-  Envir impact considerations
+Envir impact considerations
 
-  Envir impact tags
+Envir impact tags
 
-  Long term outcome desired
+Long term outcome desired
 
 Supportive documents
 
@@ -66,21 +69,21 @@ Tags for track this entry
 
 Sentmient of community at start
 
-  Rating unhappy >> happy 12345
+Rating unhappy >> happy 12345
 
 Sentiment of community at completion
 
-  Rating unhappy >> happy 12345
+Rating unhappy >> happy 12345
 
 Did the project achieve its goals?
 
-  No
+No
 
-  Somewhat
+Somewhat
 
-  Some were some were not
+Some were some were not
 
-  yes
+yes
 
 Comments
 
