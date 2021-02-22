@@ -1,6 +1,6 @@
-title: a project of SCD Hub
-short_title: ECWO
-description: a project of the Sustainable Community Development Hub
+title: Peacewater
+short_title: Peacewater
+description: Peacewater a project of the UNM ECHO Peace Engineering program and Sustainable Community Development Hub
 baseurl:
 permalink: "/:path/"
 defaults:
