@@ -16,10 +16,11 @@ slug: ''
 ---
 ## Overview
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+Our SCD Hub team and community partners have been researching  urban river revitalization schemes, and different case histories.
+
+Some aspects of (say.. The Russian River) in Sonoma County CA, are similar concerns for the Nairobi Ngong Athi River compled through Nairobi, and ultimately through SCD Hub's adopted community partner Njiru.
 
 ## Editions
 
 * Edition One - 2016
-
 * Edition Two - 2017
