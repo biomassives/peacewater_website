@@ -44,23 +44,17 @@ Here are some suggested starting points:
 
 water : [1](https://en.wikipedia.org/wiki/Rainwater_harvesting "Rainwater harvesting") [2]() [3](https://www.unep.org/interactive/beat-plastic-pollution/ "UN Environment beat-plastic-pollution") 
 
-      Access to cleaner water for my family/ community
+desired outcome checkboxes on our [Project signup form](https://forms.gle/QidAdD9nLVYWGgtv5 "Peacewater project form")
 
-      On-site water / and air filtration systems
-
-Reduction of pollutants to air and water supply
-
-Abatement of open trash burning
-
-Increased recycling in my community
-
-Jobs created in the recycling / upcycled product industry
-
-Development of Eco-tourism industry
-
-Increased community awareness
-
-Access to grants and funding for appropriate solutions
+* Access to cleaner water for my family/ community
+* On-site water / and air filtration systems
+* Reduction of pollutants to air and water supply
+* Abatement of open trash burning
+* Increased recycling in my community
+* Jobs created in the recycling / upcycled product industry
+* Development of Eco-tourism industry
+* Increased community awareness
+* Access to grants and funding for appropriate solutions
 
 Research community approaches to solid waste management.
 
