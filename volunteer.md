@@ -40,11 +40,13 @@ Research liaisons help determine which topics in need of more research, and help
 
 ![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)![](/uploads/2021/02/18/mermaid-diagram-20210218103414.svg)
 
+**AS A RESEARCHER**
+
 Here are some suggested starting points:
 
 water : [1](https://en.wikipedia.org/wiki/Rainwater_harvesting "Rainwater harvesting") [2]() [3](https://www.unep.org/interactive/beat-plastic-pollution/ "UN Environment beat-plastic-pollution") 
 
-desired outcome checkboxes on our [Project signup form](https://forms.gle/QidAdD9nLVYWGgtv5 "Peacewater project form")
+desired outcome check boxes on our [Project signup form](https://forms.gle/QidAdD9nLVYWGgtv5 "Peacewater project form")
 
 * Access to cleaner water for my family/ community
 * On-site water / and air filtration systems
