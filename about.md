@@ -18,7 +18,7 @@ menu:
     weight: 2
 
 ---
-To get started,  water systems focused clinics are encouraged to fill out our [Peacewater Project Form](https://forms.gle/rbGk6mrqokPgDYqz6 "Peacewater Project Form")
+To get started,  water systems focused clinics are encouraged to fill out our [Peacewater Project Form](https://forms.gle/rbGk6mrqokPgDYqz6 "Peacewater Project Form") [pdf](/uploads/2021/02/22/peacewater_project_form.pdf "Peacewater Project Form PDF") [html](https://scdhub.org/peacewater_form/project.html "Peacewater Project form html")
 
 Preliminary meetings are usually between a Peacewater volunteer the local project lead or 'water champion".
 
