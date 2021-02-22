@@ -1,5 +1,5 @@
 ---
-title: Meetups
+title: Water Technology Meetups
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2021/02/18/water_drink.png"
 heading: SCD Clinics
@@ -18,4 +18,8 @@ menu:
     weight: 2
 
 ---
-To get started,  water systems focused clinics are encouraged to fill out our [Peacewater Project Form](https://forms.gle/rbGk6mrqokPgDYqz6 "Peacewater Project Form").
+To get started,  water systems focused clinics are encouraged to fill out our [Peacewater Project Form](https://forms.gle/rbGk6mrqokPgDYqz6 "Peacewater Project Form")
+
+Preliminary meetings are usually between a Peacewater volunteer the local project lead or 'water champion".
+
+Project researchers and informal research volunteers are notified of your project type and context.  New links are added to your project report specific to your context, location, level of funding, and project's unique aspects.
