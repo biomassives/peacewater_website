@@ -1,0 +1,63 @@
+---
+heading: google sheets, strapi api, static sites via vervel.
+sub_heading: Engineering and Health Sciences
+layout: home
+title: Technologies in use
+banner_image: ''
+hero_button:
+  text: ''
+  href: ''
+textline: ''
+services: []
+show_news: false
+partners: []
+show_staff: false
+
+---
+
+This text and hypermedia are from the documentation of the Jekyll theme template we are using for this website:  SCD Hub is using a hugo template, and being upgraded to
+
+# Hugo & Jekyll
+
+A Jekyll demo site for [Forestry CMS](https://forestry.io).
+
+Forestry.io provides a solid interface to manage public content.
+
+This is how [scdhub.org](https://scdhub.org "SCd Hub") content was moved to a new cms.   SCD Hub had been maintained via markdown files in the pa
+
+This project has been pre-configured to work with Forestry, just import your repository ✨.  
+Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
+
+<p><a href="[https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll](https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll "https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll")"> <img alt="Import this project into Forestry" src="[https://assets.forestry.io/import-to-forestryK.svg](https://assets.forestry.io/import-to-forestryK.svg "https://assets.forestry.io/import-to-forestryK.svg")" /> </a></p>
+
+Forestry empowers editors with a usable interface to edit Markdown, YAML and JSON files:
+
+![](https://res.cloudinary.com/forestry-demo/image/fetch/c_limit,dpr_auto,f_auto,q_80,w_1205/https://forestry.io/uploads/2018/12/draft-post-editor.png)
+
+## Documentation
+
+* [Forestry docs](https://forestry.io/docs/welcome/)
+* [Jekyll Developer Guide](https://forestry.io/docs/guides/developing-with-jekyll/)
+* [Jekyll docs](https://jekyllrb.com)
+
+## Deployment
+
+The easiest way to deploy this Jekyll v4 demo is to build and deploy through [https://netlify.com,](https://netlify.com, "https://netlify.com,") just click the button below and follow the instructions.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
+
+## Running locally
+
+### Requirements
+
+* Ruby > 2.4
+* Bundler > 2.0
+* Jekyll > 4.0
+
+Once you've cloned the repository:
+
+    # Install project dependencies
+    bundle install
+    
+    # Run a local server to preview your work 
+    bundle exec jekyll serve
