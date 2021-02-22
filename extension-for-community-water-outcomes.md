@@ -3,7 +3,7 @@ heading: Peacewater
 sub_heading: Engineering and Water Sciences
 layout: home
 title: Peacewater Database
-banner_image: ''
+banner_image: "/uploads/2021/02/22/screenshot_2021-02-21-strapi-etiny-webblog-starter-dedicated-digitalocean-1.png"
 hero_button:
   text: ''
   href: ''
