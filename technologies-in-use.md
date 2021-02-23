@@ -61,24 +61,8 @@ Forestry empowers editors with a usable interface to edit Markdown, YAML and JSO
 
 ![](/uploads/2021/02/23/screenshot-from-2021-02-23-00-07-44.png)
 
-## Deployment
+## Static Site Deployment
 
 The easiest way to deploy this Jekyll v4 demo is to build and deploy through [https://netlify.com,](https://netlify.com, "https://netlify.com,") just click the button below and follow the instructions.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
-
-## Running locally
-
-### Requirements
-
-* Ruby > 2.4
-* Bundler > 2.0
-* Jekyll > 4.0
-
-Once you've cloned the repository:
-
-    # Install project dependencies
-    bundle install
-    
-    # Run a local server to preview your work 
-    bundle exec jekyll serve
