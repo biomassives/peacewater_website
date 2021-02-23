@@ -14,7 +14,6 @@ partners: []
 show_staff: false
 
 ---
-
 Google sheets, Strapi API, static sites via git, Vercel, Netlify
 
 # Content Management
@@ -37,9 +36,9 @@ Google sheets, Strapi API, static sites via git, Vercel, Netlify
 
 Strapi
 
- Strapi provides a flexible interface to various database backends. (Mysql, Mongodb, Sqlite, PostgreSQl), via [graphql ](https://strapi.io/documentation/developer-docs/latest/plugins/graphql.html "graphql endpoints")endpoints
+Strapi provides a flexible interface to various database backends. (Mysql, Mongodb, Sqlite, PostgreSQl), via [graphql ](https://strapi.io/documentation/developer-docs/latest/plugins/graphql.html "graphql endpoints")endpoints
 
-You can view the 
+You can view the
 
 This website is managed via [Forestry CMS](https://forestry.io), which updates markdown files in [Github](https://github.com/biomassives/ecwo "biomassives github account - 'personal account'"), triggering a build at [Netlify.com](https://netlify.com "Netlify")
 
@@ -47,13 +46,11 @@ Forestry.io provides a solid interface to manage public content.
 
 ![](/uploads/2021/02/22/screenshot_2021-02-21-strapi-etiny-webblog-starter-dedicated-digitalocean-1.png "Digital Ocean Server Status")
 
-[scdhub.org](https://scdhub.org "SCD Hub") content is managed via markdown files,  The transition to forestry.io free and now low level service has gone well.  SCD Hub is currently maintained via markdown files at https://scdhub.org 
+[scdhub.org](https://scdhub.org "SCD Hub") content is managed via markdown files,  The transition to forestry.io free and now low level service has gone well.  SCD Hub is currently maintained via markdown files at https://scdhub.org
 
-The template we use for this website has been pre-configured to work with Forestry, 
+The template we use for this website has been pre-configured to work with Forestry,
 
- SCD Hub is using a hugo template, which indexes content by tags and categories, with the following endpoints:
-
- 
+SCD Hub is using a hugo template, which indexes content by tags and categories, with the following endpoints:
 
 "just import your repository ✨.  
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify."
@@ -62,9 +59,7 @@ Any changes you make will be commited back to the repo, and deployed if you're u
 
 Forestry empowers editors with a usable interface to edit Markdown, YAML and JSON files:
 
-![](https://res.cloudinary.com/forestry-demo/image/fetch/c_limit,dpr_auto,f_auto,q_80,w_1205/https://forestry.io/uploads/2018/12/draft-post-editor.png)
-
-* 
+![](/uploads/2021/02/23/screenshot-from-2021-02-23-00-07-44.png)
 
 ## Deployment
 
