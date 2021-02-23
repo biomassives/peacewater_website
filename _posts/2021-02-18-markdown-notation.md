@@ -2,8 +2,8 @@
 layout: post
 title: markdown notation
 sub_heading: mermaid.js - charting, gantt,  flow & process diagrams
-date: 
-tags: []
+date: 2021-02-18 01:58:13 +0000
+tags: [process]
 banner_image: "/uploads/2021/02/18/mermaid-diagram-20210218103414.svg"
 related_posts: []
 
