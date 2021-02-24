@@ -2,7 +2,7 @@
 heading: ''
 sub_heading: Engineering and Health Sciences
 layout: home
-title: Internal IT
+title: IT Structure
 banner_image: ''
 hero_button:
   text: ''
