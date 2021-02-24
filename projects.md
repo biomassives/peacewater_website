@@ -6,11 +6,7 @@ publish_date: '2017-11-01T03:00:00.000+00:00'
 menu:
   navigation:
     identifier: _projects
-    weight: 3
-  footer:
-    identifier: _projects
-    url: "/projects/"
-    weight: 2
+    weight: 4
 
 ---
 Peacewater uses Docker and cloud containers allows for portability of our systems.  Strapi docker install setup is simple.

@@ -12,9 +12,13 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  footer:
+    identifier: _projects
+    weight: 2
+    title: Data Model
 
 ---
-
 The text below is from the live form "Background research for projects" at  [https://forms.gle/ppSUnrauZJUjkRn27](https://forms.gle/ppSUnrauZJUjkRn27 "Background research for projects")  
 
 The design of these fields and two like them (below) guide the design 

@@ -10,7 +10,7 @@ menu:
   footer:
     identifier: _project
     url: "/project/"
-    weight: 2
+    weight: 1
   navigation:
     identifier: _project
     weight: 3

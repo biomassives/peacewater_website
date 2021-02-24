@@ -1,14 +1,14 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2021/02/18/scdhub1.jpg"
 heading: Contact SCD Hub
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 ## Hours of Operation
