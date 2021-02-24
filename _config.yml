@@ -1,6 +1,6 @@
 title: Peacewater
-short_title: Peacewater
-description: Peacewater a project of the UNM ECHO Peace Engineering program and Sustainable Community Development Hub
+short_title: Peacewater Database
+description: Peacewater database a project of Peace Engineering and Sustainable Community Development Hub
 baseurl:
 permalink: "/:path/"
 defaults:
