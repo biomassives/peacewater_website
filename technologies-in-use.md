@@ -2,7 +2,7 @@
 heading: ''
 sub_heading: Engineering and Health Sciences
 layout: home
-title: 'Internals to '
+title: Internal IT
 banner_image: ''
 hero_button:
   text: ''
