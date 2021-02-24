@@ -7,7 +7,15 @@ sub_heading: works well in workshops
 
 **The library curation process**
 
+ metadata files are the endpoint. auditing of new database entries are posted 
+
+
+jekyll in forestry.iop into vercel build service
+
+
+
 Peacewater has been careful to respect copyrights.
+
 
 It is our policy to request access to screen capture images that are particularly useful, and to seek out creative commons and public domain images which can be replicated without encumbrances.
 
