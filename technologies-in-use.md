@@ -16,11 +16,13 @@ show_staff: false
 ---
 ## Static Site Deployment
 
-The easiest way to deploy this Jekyll v4 demo is to build and deploy through [https://netlify.com,](https://netlify.com, "https://netlify.com,") just click the button below and follow the instructions.
+The best way to build a side from  way to deploy this Jekyll v4 demo is to build and deploy through [https://netlify.com,](https://netlify.com, "https://netlify.com,") just click the button below and follow the instructions.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
 
 ![](/uploads/2021/02/23/screenshot-from-2021-02-23-00-07-44.png)
+
+![](/uploads/2021/02/24/screenshot-from-2021-02-24-11-58-16.png)
 
   
 Google sheets, Strapi API, static sites via git, Vercel, Netlify
